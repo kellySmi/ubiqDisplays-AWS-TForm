@@ -1,0 +1,26 @@
+{
+  "name": "ubiqdisplays-aws-terraform",
+  "version": "1.0.0",
+  "description": "AWS-Terraform implementation of Ubiquity displays",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellySmi/ubiqDisplays-AWS-TForm.git"
+  },
+  "keywords": [
+    "AWS",
+    "Terraform"
+  ],
+  "author": "Kelly Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellySmi/ubiqDisplays-AWS-TForm/issues"
+  },
+  "homepage": "https://github.com/kellySmi/ubiqDisplays-AWS-TForm#readme",
+  "dependencies": {
+    "serverless-offline": "^3.25.4"
+  }
+}
