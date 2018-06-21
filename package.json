@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/kellySmi/ubiqDisplays-AWS-TForm#readme",
   "dependencies": {
+    "async": "^2.6.1",
+    "aws-sdk": "^2.259.1",
     "serverless-offline": "^3.25.4"
   }
 }
